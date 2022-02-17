@@ -23,7 +23,7 @@ document.addEventListener('keyup',(e)=>{
 game.startScreen.addEventListener('click', (e) => {
 
 
-    game.gameScreen.classList.add('hidden');
+    game.startScreen.classList.add('hidden');
     game.gameScreen.classList.remove('hidden');
 
     start(state, game)
