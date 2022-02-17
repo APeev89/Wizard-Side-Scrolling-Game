@@ -15,7 +15,7 @@ body{
     background-color: rgb(248, 48, 48);
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 30%;
     transform: translate(-50%);
 }
 .start-screen:hover{
